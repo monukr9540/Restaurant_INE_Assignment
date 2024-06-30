@@ -8,7 +8,7 @@ Back-end: Node.js/Express.js
 Database: MongoDB
 Authentication: JWT
 
-Customer Interface
+#Customer Interface
 
 Login Page:
 Customers can log in using their basic details.
@@ -26,7 +26,7 @@ Order Viewing:
 Displays current submitted order details.
 
 
-Restaurant Staff Interface
+#Restaurant Staff Interface
 
 Order Management:
 
@@ -35,7 +35,7 @@ Displays a list of incoming orders with details such as order items, and total a
 Menu List Updation:
 Admin can update new food items in their menu list.
 
-uthentication
+#Authentication
 
 User Roles:
 Authentication is implemented for both customers and staff.
