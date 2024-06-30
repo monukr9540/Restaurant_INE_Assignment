@@ -7,3 +7,36 @@ Front-end: React
 Back-end: Node.js/Express.js
 Database: MongoDB
 Authentication: JWT
+
+Customer Interface
+
+Login Page:
+Customers can log in using their basic details.
+
+Menu Browsing:
+Displays a list of menu items with details such as name, description, price, and image.
+
+Menu items are categorized (e.g., appetizers, main courses, desserts, drinks).
+
+Order Placement:
+Customers can select their food item and add items to their cart.
+Customers can review their cart, adjust quantities, and remove items.
+
+Order Viewing:
+Displays current submitted order details.
+
+
+Restaurant Staff Interface
+
+Order Management:
+
+Displays a list of incoming orders with details such as order items, and total amount.
+
+Menu List Updation:
+Admin can update new food items in their menu list.
+
+uthentication
+
+User Roles:
+Authentication is implemented for both customers and staff.
+Only authenticated staff can access order management features.
